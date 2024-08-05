@@ -1,0 +1,17 @@
+---
+title: "DH 140 Final Project"
+description: "John Flanagan's final project for UCLA DH 140 that uses data to analyze the recent beef between Kendrick Lamar and Drake"
+author: "John Flanagan"
+date: "08/04/2024"
+date-modified: "08/04/2024"
+categories: [jupyter]
+jupyter: "./Final Project.ipynb"
+---
+
+This is an introduction to my analysis. The Jupyter notebook content will be rendered below.
+
+```{jupyter}
+#| echo: true
+#| output: true
+
+# The notebook content will be rendered here
