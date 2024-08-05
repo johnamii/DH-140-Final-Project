@@ -1,5 +1,6 @@
 ---
 title: "blog"
+jupyter: "./posts/Final-Project.ipynb"
 listing:
   contents: posts
   sort: "date desc"
