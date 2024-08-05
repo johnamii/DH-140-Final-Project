@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/johnamii/DH-140-Final-Project/main)
 
-Link to the blog site:  [label](https://johnamii.github.io/DH-140-Final-Project/)
+[Blog Link](https://johnamii.github.io/DH-140-Final-Project/)
 
 # DH-140-Final-Project
 
